@@ -1,0 +1,3 @@
+py_aosmith
+requests
+python-dotenv
